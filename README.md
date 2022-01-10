@@ -2,4 +2,5 @@
 
 - :turtle: My name is Hanh.
 - :computer: I’m currently learning Android Development.
-- 📫 How to reach me: https://www.facebook.com/hanhh.nd/
+- :thumbsup: Facebook: https://www.facebook.com/hanhh.nd/
+- :mailbox: Email: hanhnd156@gmail.com
